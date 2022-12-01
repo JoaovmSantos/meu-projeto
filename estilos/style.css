@@ -219,7 +219,7 @@ h1{
 }
 
 footer{
-    margin-top: 8px;
+    margin: 0px;
     float: bottom;
     height: 4vh;
     width: 100vw;
