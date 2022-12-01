@@ -119,7 +119,7 @@ h1{
     border: 1px solid black;
     border-radius: 8px;
     box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.349);
-    background-color: #95b4d6ab;
+    background-color: #85b5e794;
 }
 
 .catalogo > h3{
@@ -167,7 +167,29 @@ h1{
     color: white;
 }
 
+#sobre{
+    margin: auto;
+    width: 98vw;
+    border-radius: 8px;
+    border: 1px solid black;
+    background-color: #85b5e794;
+}
+#sobre > h2{
+    margin: 8px;
+    font-size: 2.2em;
+    text-align: center;
+    color: white;
+}
+
+#sobre > p{
+    margin: 4px 8px;
+    padding: 4px;
+    text-align: justify;
+    font-size: 14px;
+}
+
 footer{
+    margin-top: 8px;
     float: bottom;
     height: 4vh;
     width: 100vw;
