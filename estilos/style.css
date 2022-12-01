@@ -113,7 +113,7 @@ h1{
 
 .catalogo{
     margin: 8px auto;
-    height: 116px;
+    height: 124px;
     width: 94vw;
     box-sizing: border-box;
     border: 1px solid black;
@@ -165,4 +165,16 @@ h1{
 #convite > a:hover{
     padding: 4px;
     color: white;
+}
+
+footer{
+    float: bottom;
+    height: 4vh;
+    width: 100vw;
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 16px;
+    font-weight: bolder;
+    background-color: #3e556d;
+    text-align: center;
 }
