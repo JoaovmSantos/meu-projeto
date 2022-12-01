@@ -101,7 +101,8 @@ h1{
 #projetos{
     margin: auto;
     width: 98vw;
-    height: 56vh;
+    height: 53vh;
+    background-color: gray;
 }
 
 #projetos > h2{
@@ -150,9 +151,9 @@ h1{
 }
 
 #convite{
-    margin-top: 16px;
+    margin-top: 8px;
     font-weight: bolder;
-    font-size: 1.5em;
+    font-size: 1.3em;
     text-align: center;
     color: white;
 }
