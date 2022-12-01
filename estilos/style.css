@@ -168,7 +168,7 @@ h1{
 }
 
 #sobre{
-    margin: 15px auto 0;
+    margin: 0px auto 0;
     width: 94vw;
     border-radius: 8px;
     border: 1px solid black;
@@ -196,17 +196,17 @@ h1{
 
 #social > h2{
     text-align: center;
-    font-size: 2.2em;
+    font-size: 2em;
     color: white;
     position: relative;
 }
 
 #social > a{
-    margin: auto;
-    padding: 6px;
+    height: 18px;
+    padding: 4px;
     position: relative;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 14px;
     border-radius: 8px;
     border: 1px solid #1abc9c;
     color: white;
