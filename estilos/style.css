@@ -104,3 +104,16 @@ h1{
     height: 48vh;
     background-color: white;
 }
+
+#projetos > h2{
+    margin: 8px;
+    font-size: 2.2em;
+    text-align: center;
+}
+
+.catalogo{
+    margin: auto;
+    height: 62px;
+    width: 90vw;
+    background-color: grey;
+}
