@@ -101,19 +101,67 @@ h1{
 #projetos{
     margin: auto;
     width: 98vw;
-    height: 48vh;
-    background-color: white;
+    height: 56vh;
 }
 
 #projetos > h2{
     margin: 8px;
     font-size: 2.2em;
     text-align: center;
+    color: white;
 }
 
 .catalogo{
-    margin: auto;
-    height: 62px;
-    width: 90vw;
-    background-color: grey;
+    margin: 8px auto;
+    height: 116px;
+    width: 94vw;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 8px;
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.349);
+    background-color: #95b4d6ab;
+}
+
+.catalogo > h3{
+    padding: 4px;
+    font-size: 18px;
+}
+
+.catalogo > p{
+    padding: 4px;
+    text-align: justify;
+}
+
+.catalogo > a{
+    margin: 4px;
+    padding: 4px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 14px;
+    border-radius: 8px;
+    float: right;
+}
+
+.catalogo > a:hover{
+    transition: .4s ease-in-out;
+    color: white;
+}
+
+#convite{
+    margin-top: 16px;
+    font-weight: bolder;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+#convite > a{
+    text-decoration: none;
+    color: black;
+}
+
+#convite > a:hover{
+    padding: 4px;
+    color: white;
 }
