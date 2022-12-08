@@ -8,7 +8,7 @@ body{
     height: 100vh;
     font-size: 12px;
     font-family: sans-serif;
-    background-color: #595959;
+    background-color: #eeeeed;
 }
 
 nav{
@@ -16,8 +16,9 @@ nav{
     position: relative;
     width: 88vw;
     height: 50px;
-    background-color: #bbb8b2;
+    background-color: #ece9e3;
     border-radius: 8px;
+    box-shadow: 2px 2px 4px #15f7eb73;
     font-size: 0;
 }
 
@@ -25,13 +26,14 @@ nav a{
     line-height: 50px;
     height: 100%;
     font-size: 15px;
+    font-weight: bolder;
     display: inline-block;
     position: relative;
     z-index: 1;
     text-decoration: none;
     text-transform: uppercase;
     text-align: center;
-    color: white;
+    color: black;
     cursor: pointer;
 }
 
@@ -96,7 +98,8 @@ h1{
     padding: 8px;
     font-size: 28px;
     text-align: center;
-    color: white;
+    color: black;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.295);
 }
 
 #projetos{
@@ -106,9 +109,10 @@ h1{
 
 #projetos > h2{
     margin: 8px;
-    font-size: 2.2em;
+    font-size: 2.8em;
+    font-weight: bolder;
     text-align: center;
-    color: white;
+    color: black;
 }
 
 .catalogo{
@@ -116,10 +120,10 @@ h1{
     height: 148px;
     width: 94vw;
     box-sizing: border-box;
-    border: 1px solid black;
+
     border-radius: 8px;
     box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.349);
-    background-color: #bbb8b2;
+    background-color: #ece9e3;
 }
 
 .catalogo > h3{
@@ -156,12 +160,12 @@ h1{
     font-weight: bolder;
     font-size: 1.3em;
     text-align: center;
-    color: white;
+    color: black;
 }
 
 #convite > a{
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
 #convite > a:hover{
@@ -174,14 +178,14 @@ h1{
     width: 94vw;
     height: 148px;
     border-radius: 8px;
-    border: 1px solid black;
-    background-color: #bbb8b2;
+    background-color: #ece9e3;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.288);
 }
 #sobre > h2{
     margin: 8px;
     font-size: 2.2em;
     text-align: center;
-    color: white;
+    color: black;
 }
 
 #sobre > p{
@@ -201,7 +205,7 @@ h1{
     padding: 0px;
     text-align: center;
     font-size: 2.4em;
-    color: white;
+    color: black;
 }
 
 #social > a{
@@ -213,23 +217,25 @@ h1{
     text-decoration: none;
     text-align: center;
     font-size: 18px;
+    font-weight: bolder;
     border-radius: 8px;
-    border: 1px solid #bbb8b2;
-    color: white;
+    box-shadow: 2px 2px 4px #15f7eb73;
+    color: black;
 }
 
 #social > a:hover{
-    transition: .4s ease-in-out;
-    background-color: #1abc9c;
-    border: 1px solid #527ba7;
+    transition: .5s ease-in-out;
+    background-color: #1abc9ca2;
+    box-shadow: 2px 2px 4px white;
     border-radius: 8px;
+    color: white;
 }
 
 footer{
     margin-top: 12px;
     height: 18px;
     padding: 6px;
-    background-color: #bbb8b2;
+    background-color: #ece9e3;
     text-align: center;
     font-weight: bolder;
     font-size: 16px;
