@@ -113,6 +113,7 @@ h1{
     font-weight: bolder;
     text-align: center;
     color: black;
+    text-shadow: 2px 2px 2px #15f7eb73;
 }
 
 .catalogo{
@@ -121,14 +122,15 @@ h1{
     width: 94vw;
     box-sizing: border-box;
     border-radius: 8px;
-    box-shadow: 2px 2px 4px #7e2e8488;
-    background-color: #ece9e3;
+    box-shadow: 2px 4px 6px #7e2e8488;
+    background-color: #f0efed;
 }
 
 .catalogo > h3{
     text-align: center;
     padding: 4px;
     font-size: 2.2em;
+    text-shadow: 2px 2px 2px #a835b188;
 }
 
 .catalogo > p{
@@ -151,6 +153,7 @@ h1{
 
 .catalogo > a:hover{
     transition: .4s ease-in-out;
+    background-color: #7e2e8488;
     color: white;
 }
 
@@ -178,13 +181,14 @@ h1{
     height: 148px;
     border-radius: 8px;
     background-color: #ece9e3;
-    box-shadow: 2px 2px 4px #7e2e8488;
+    box-shadow: 2px 4px 6px #7e2e8488;
 }
 #sobre > h2{
     margin: 8px;
     font-size: 2.2em;
     text-align: center;
     color: black;
+    text-shadow: 2px 2px 2px #a835b188;
 }
 
 #sobre > p{
@@ -205,6 +209,7 @@ h1{
     text-align: center;
     font-size: 2.4em;
     color: black;
+    text-shadow: 2px 2px 2px #15f7eb73;
 }
 
 #social > a{
