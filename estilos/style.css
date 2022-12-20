@@ -8,7 +8,7 @@ body{
     height: 100vh;
     font-size: 12px;
     font-family: sans-serif;
-    background-color: #eeeeed;
+    background-color: #eeeeee;
 }
 
 nav{
@@ -99,7 +99,6 @@ h1{
     font-size: 28px;
     text-align: center;
     color: black;
-    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.295);
 }
 
 #projetos{
@@ -113,7 +112,6 @@ h1{
     font-weight: bolder;
     text-align: center;
     color: black;
-    text-shadow: 2px 2px 2px #15f7eb73;
 }
 
 .catalogo{
@@ -130,7 +128,6 @@ h1{
     text-align: center;
     padding: 4px;
     font-size: 2.2em;
-    text-shadow: 2px 2px 2px #a835b188;
 }
 
 .catalogo > p{
@@ -188,7 +185,6 @@ h1{
     font-size: 2.2em;
     text-align: center;
     color: black;
-    text-shadow: 2px 2px 2px #a835b188;
 }
 
 #sobre > p{
@@ -208,8 +204,7 @@ h1{
     padding: 0px;
     text-align: center;
     font-size: 2.4em;
-    color: black;
-    text-shadow: 2px 2px 2px #15f7eb73;
+    color: #000000;
 }
 
 #social > a{
