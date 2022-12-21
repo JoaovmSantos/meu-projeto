@@ -96,7 +96,7 @@ nav.start-contato, a:nth-child(4):hover{
 
 h1{
     padding: 8px;
-    font-size: 28px;
+    font-size: 2.3em;
     text-align: center;
     color: black;
 }
@@ -108,7 +108,7 @@ h1{
 
 #projetos > h2{
     margin: 8px;
-    font-size: 2.8em;
+    font-size: 2.1em;
     font-weight: bolder;
     text-align: center;
     color: black;
@@ -127,7 +127,7 @@ h1{
 .catalogo > h3{
     text-align: center;
     padding: 4px;
-    font-size: 2.2em;
+    font-size: 2em;
 }
 
 .catalogo > p{
@@ -178,7 +178,7 @@ h1{
     height: 148px;
     border-radius: 8px;
     background-color: #ece9e3;
-    box-shadow: 2px 4px 6px #7e2e8488;
+    box-shadow: 2px 4px 6px #15f7ec86;
 }
 #sobre > h2{
     margin: 8px;
@@ -234,7 +234,7 @@ footer{
     margin-top: 12px;
     height: 18px;
     padding: 6px;
-    background-color: #ece9e3;
+    background-color: #d6d5d1;
     text-align: center;
     font-weight: bolder;
     font-size: 16px;
